@@ -51,8 +51,6 @@ time - 203
 good - 201
 ```
 
-In `writing/reflection.md`, describe the high-level behavior of the Object-Oriented term frequency program. Also, provide examples of code from the Object-Oriented program that reflect the constraints associated with the Object-Oriented programming style.
-
 Read through the Object-Oriented program, line-by-line, making sure that you understand how the program produces its output. Then, in `writing/reflection.md`, describe the overall purpose of each of the classes in the Object-Oriented program and the behaviors of the methods listed in the reflection question.
 
 ### Parametrize a Given Test
