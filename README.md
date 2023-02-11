@@ -1,7 +1,5 @@
 # Object-Oriented Programming Style
 
-## Due Date: Friday, December 9th, 2022 by midnight
-
 ## Introduction
 
 In this practical assignment, you will familiarize yourself with the Object-Oriented programming style by writing tests for an Object-Oriented program. Through this exercise, you will put into practice the following learning objective(s):
